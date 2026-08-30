@@ -5,7 +5,7 @@
 
 ### Hi, I'm Inesh Pulugurtha
 
-**Product-minded builder · AI & UX · Finance @ Kelley**
+**Finance @ Kelley + Mathematics & Chinese**
 
 Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ FinDi Ltd
 

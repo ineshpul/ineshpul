@@ -17,8 +17,6 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ---
 
-**Targeting:** AI Product Management · UX/UI Product Management
-
 ---
 
 ## Featured work

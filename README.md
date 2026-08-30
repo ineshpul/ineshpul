@@ -31,7 +31,7 @@ Hi! I am Inesh, a rising junior at Indiana University studying Finance with a du
 |---|---|---|
 | [**Leap**](https://github.com/ineshpul/leap-mvp) | Founder & PM | Daily social video app · iOS live · moderation pipeline · Teams B2B variant |
 | [**Inesh Life PM**](https://github.com/ineshpul/ineshlifepm) | Solo PM + builder | Personal PM system — goals, habits, and life decisions |
-| [**FinDi**](https://www.linkedin.com/company/findimoney) | Product Intern | [YOUR 1-LINE — e.g. End-to-end web + mobile scope for personal finance accountability] |
+| [**FinDi**](https://www.linkedin.com/company/findimoney) | Product Intern | Building full stack web application where users are able to manage their personal finances while being held accountable by their support system. System analyzes transactions while staying updated on subscriptions and recurring payments to notify any changes.
 | [**Leap Beta Survey**](https://github.com/ineshpul/leapsurvey) | PM / Growth | Waitlist + challenge suggestion intake for beta cohort |
 
 ---

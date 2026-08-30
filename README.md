@@ -30,7 +30,7 @@ I design and ship consumer products at the intersection of social UX and AI-powe
 | Project | Role | Highlights |
 |---|---|---|
 | [**Leap**](https://taketheleap.app) | Founder & PM | Daily social video app · iOS live · moderation pipeline · Teams B2B variant *(codebase private)* |
-| [**Inesh Life PM**](https://github.com/ineshpul/ineshlifepm) | Personal PM system w/ my goals, habits, and life decisions |
+| [**Inesh Life PM**](https://github.com/ineshpul/ineshlifepm) | Solo | Personal PM system w/ my goals, habits, and life decisions |
 | [**FinDi**](https://www.linkedin.com/company/findimoney) | Product Intern | Building out full stack web application allowing users to manage personal finances while being held accountable by their support system. Implemented system to track changes in subscription prices, and allow users to be notified regarding spending variances. |
 
 ---

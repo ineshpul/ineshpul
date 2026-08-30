@@ -19,7 +19,7 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ## What I do
 
-[YOUR 2–3 SENTENCE ELEVATOR PITCH — e.g. I design and ship consumer products at the intersection of social UX and AI-powered trust & safety. Currently building Leap and owning product scope at FinDi.]
+Hi! I am Inesh, a rising junior at Indiana University studying Finance with a dual-minor in Mathematics & Chinese. I love watching and playing sports (Soccer, Basketball, Football), eating food, watching shows, and have recently been immersing myself within the AI Space. I recently built an app, Leap, which centers around pushing users outside of their comfort zone, and allows for people to take that leap and interact with the people around them while creating daily fun memories with their friends. Every day, a new challenge, with weekly rewards.  
 
 **Targeting:** AI Product Management · UX/UI Product Management
 
@@ -46,17 +46,16 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ## Currently
 
-- 🐸 Shipping **Leap** — [YOUR CURRENT FOCUS — e.g. Teams org pilot, UI modernization, moderation tuning]
+- 🐸 Shipping **Leap** — Scaling retention while onboarding pilot organization group. 
 - 📱 Owning product scope at **FinDi**
-- 🎓 **Indiana University Kelley** — Finance + Math
+- 🎓 **Indiana University Kelley** — Finance + Math & Chinese
 
 ---
 
 ## Let's connect
 
 - LinkedIn → [ineshpulugurtha](https://www.linkedin.com/in/ineshpulugurtha/)
-- Email → [YOUR EMAIL]
-- Portfolio → [YOUR PORTFOLIO URL IF ANY]
+- Email → pulugurtha.inesh@gmail.com
 
 ---
 

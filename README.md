@@ -19,7 +19,7 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ## What I do
 
-Hi! I am Inesh, a rising junior at Indiana University studying Finance with a dual-minor in Mathematics & Chinese. I love watching and playing sports (Soccer, Basketball, Football), eating food, watching shows, and have recently been immersing myself within the AI Space. I recently built an app, Leap, which centers around pushing users outside of their comfort zone, and allows for people to take that leap and interact with the people around them while creating daily fun memories with their friends. Every day, a new challenge, with weekly rewards.  
+Hi! I am Inesh, a rising junior at Indiana University studying Finance with a dual-minor in Mathematics & Chinese. I love watching and playing sports (Soccer, Basketball, Football), eating food, watching shows, and have recently been immersing myself within the AI Space. I recently built Leap, which centers around pushing users outside of their comfort zone, and allows for people to take that leap and interact with the people around them while creating daily fun memories with their friends. Every day, a new challenge, with weekly rewards.  
 
 **Targeting:** AI Product Management · UX/UI Product Management
 

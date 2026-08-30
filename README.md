@@ -5,7 +5,7 @@
 
 ### Hi, I'm Inesh Pulugurtha
 
-**Finance @ Kelley + Mathematics & Chinese**
+**Product-minded builder · AI & UX · Finance @ Kelley**
 
 Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ FinDi Ltd
 
@@ -17,15 +17,21 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ---
 
+## What I do
+
+[YOUR 2–3 SENTENCE ELEVATOR PITCH — e.g. I design and ship consumer products at the intersection of social UX and AI-powered trust & safety. Currently building Leap and owning product scope at FinDi.]
+
+**Targeting:** AI Product Management · UX/UI Product Management
+
 ---
 
 ## Featured work
 
 | Project | Role | Highlights |
 |---|---|---|
-| [**Leap**](https://github.com/ineshpul/leap-mvp) | Founder & PM | Daily social video app · iOS live · moderation pipeline · Teams B2B variant |
+| [**Leap**](https://taketheleap.app) | Founder & PM | Daily social video app · iOS live · moderation pipeline · Teams B2B variant *(codebase private)* |
 | [**Inesh Life PM**](https://github.com/ineshpul/ineshlifepm) | Solo PM + builder | Personal PM system — goals, habits, and life decisions |
-| [**FinDi**](https://www.linkedin.com/company/findimoney) | Product Intern | Building full stack web application where users are able to manage their personal finances while being held accountable by their support system. System analyzes transactions while staying updated on subscriptions and recurring payments to notify any changes.
+| [**FinDi**](https://www.linkedin.com/company/findimoney) | Product Intern | [YOUR 1-LINE — e.g. End-to-end web + mobile scope for personal finance accountability] |
 | [**Leap Beta Survey**](https://github.com/ineshpul/leapsurvey) | PM / Growth | Waitlist + challenge suggestion intake for beta cohort |
 
 ---
@@ -40,16 +46,17 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ## Currently
 
-- 🐸 Shipping **Leap** — Scaling retention while onboarding pilot organization group. 
+- 🐸 Shipping **Leap** — [YOUR CURRENT FOCUS — e.g. Teams org pilot, UI modernization, moderation tuning]
 - 📱 Owning product scope at **FinDi**
-- 🎓 **Indiana University Kelley** — Finance + Math & Chinese
+- 🎓 **Indiana University Kelley** — Finance + Math
 
 ---
 
 ## Let's connect
 
 - LinkedIn → [ineshpulugurtha](https://www.linkedin.com/in/ineshpulugurtha/)
-- Email → pulugurtha.inesh@gmail.com
+- Email → [YOUR EMAIL]
+- Portfolio → [YOUR PORTFOLIO URL IF ANY]
 
 ---
 

@@ -19,7 +19,7 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ## What I do
 
-[YOUR 2–3 SENTENCE ELEVATOR PITCH — e.g. I design and ship consumer products at the intersection of social UX and AI-powered trust & safety. Currently building Leap and owning product scope at FinDi.]
+I design and ship consumer products at the intersection of social UX and AI-powered trust & safety. Currently building Leap and owning product scope at FinDi.
 
 **Targeting:** AI Product Management · UX/UI Product Management
 
@@ -56,7 +56,6 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 - LinkedIn → [ineshpulugurtha](https://www.linkedin.com/in/ineshpulugurtha/)
 - Email → [YOUR EMAIL]
-- Portfolio → [YOUR PORTFOLIO URL IF ANY]
 
 ---
 

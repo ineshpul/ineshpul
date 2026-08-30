@@ -55,7 +55,7 @@ I design and ship consumer products at the intersection of social UX and AI-powe
 ## Let's connect
 
 - LinkedIn → [ineshpulugurtha](https://www.linkedin.com/in/ineshpulugurtha/)
-- Email → [YOUR EMAIL]
+- Email → pulugurtha.inesh@gmail.com
 
 ---
 

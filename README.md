@@ -44,7 +44,7 @@ I design and ship consumer products at the intersection of social UX and AI-powe
 
 ## Currently
 
-- 🐸 Shipping **Leap** — [YOUR CURRENT FOCUS — e.g. Teams org pilot, UI modernization, moderation tuning]
+- 🐸 Shipping **Leap** — Scaling Leap on campus, while onboarding first B2B client 
 - 📱 Owning product scope at **FinDi**
 - 🎓 **Indiana University Kelley** — Finance + Math
 

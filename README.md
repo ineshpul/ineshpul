@@ -22,7 +22,7 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 | Project | Role | Highlights |
 |---|---|---|
 | [**Leap**](https://taketheleap.app) | Founder & PM | Daily social video app · iOS live · moderation pipeline · Teams B2B variant *(codebase private)* |
-| [**Stay Sticky**](https://staysticky-web.vercel.app) | Builder | Chrome sticky-note extension + Firebase/Vercel web library — pin notes on any page, sync into searchable projects · [GitHub](https://github.com/ineshpul/staysticky) |
+| [**Stay Sticky**](https://staysticky-web.vercel.app) | Personal Project | Chrome sticky-note extension which allows you to attach sticky notes to websites as you research/browse to avoid having to switch tabs to take notes & lose track of your sources as you are researching. All notes attached from the extension get stored on the attached website. · [GitHub](https://github.com/ineshpul/staysticky) |
 | [**FinDi**](https://www.linkedin.com/company/findimoney) | Product Intern | Building out full stack web application allowing users to manage personal finances while being held accountable by their support system. Implemented system to track changes in subscription prices, and allow users to be notified regarding spending variances. |
 
 ---

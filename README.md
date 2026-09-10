@@ -5,7 +5,7 @@
 
 ### Hi, I'm Inesh Pulugurtha
 
-**Product-minded builder · AI & UX · Finance @ Kelley**
+**Finance @ Kelley**
 
 Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ FinDi Ltd
 
@@ -19,9 +19,7 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ## What I do
 
-I design and ship consumer products at the intersection of social UX and AI-powered trust & safety. Currently building Leap and owning product scope at FinDi.
-
-**Targeting:** AI Product Management · UX/UI Product Management
+I design and ship consumer products at the intersection of social UX and AI-powered trust & safety. Currently building Leap and owning product scope at FinDi
 
 ---
 

@@ -30,6 +30,7 @@ I design and ship consumer products at the intersection of social UX and AI-powe
 | Project | Role | Highlights |
 |---|---|---|
 | [**Leap**](https://taketheleap.app) | Founder & PM | Daily social video app · iOS live · moderation pipeline · Teams B2B variant *(codebase private)* |
+| [**Stay Sticky**](https://staysticky-web.vercel.app) | Builder | Chrome sticky-note extension + Firebase/Vercel web library — pin notes on any page, sync into searchable projects *(codebase private)* |
 | [**FinDi**](https://www.linkedin.com/company/findimoney) | Product Intern | Building out full stack web application allowing users to manage personal finances while being held accountable by their support system. Implemented system to track changes in subscription prices, and allow users to be notified regarding spending variances. |
 
 ---
@@ -45,6 +46,7 @@ I design and ship consumer products at the intersection of social UX and AI-powe
 ## Currently
 
 - 🐸 Shipping **Leap** — Scaling Leap on campus, while onboarding first B2B client 
+- 📌 Shipping **Stay Sticky** — Chrome extension + companion library in Chrome Web Store review
 - 📱 Owning product scope at **FinDi**
 - 🎓 **Indiana University Kelley** — Finance + Math
 

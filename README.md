@@ -17,12 +17,6 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ---
 
-## What I do
-
-I design and ship consumer products at the intersection of social UX and AI-powered trust & safety. Currently building Leap and owning product scope at FinDi
-
----
-
 ## Featured work
 
 | Project | Role | Highlights |

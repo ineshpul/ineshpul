@@ -9,12 +9,12 @@ Founder of [Leap](https://taketheleap.app) · Previously product @ FinDi Ltd
 ## Featured work
 
 | Project | Role | Highlights |
-|---|---|---|
-| [**Leap**](https://taketheleap.app) | Founder & PM | Daily social video app, live on the app store, which gives users 1 social challenge every day for them to 'take the leap' outside of their comfort zone.  *(codebase private)* |
-| [**KBA vs KWEB**](https://github.com/ineshpul/kba-kweb-capital-efficiency) | Equity research | Holdings-level valuation of KraneShares KBA and KWEB. Corporates on ROIC versus WACC, financials on ROE versus cost of equity. March 2026 snapshot, refreshed 30 October 2026. |
-| [**Stay Sticky**](https://staysticky-web.vercel.app) | Personal Project | Chrome sticky-note extension which allows you to attach sticky notes to websites as you research/browse to avoid having to switch tabs to take notes & lose track of your sources as you are researching. All notes attached from the extension get stored on the hyperlinked website. Live on the [Chrome Web Store](https://chromewebstore.google.com/detail/stay-sticky/ehdlfiabnogcehjaglfkkiilhgfpiagi). |
-| [**CPR Naperville**](https://cpr-naperville-redesign.vercel.app) | Website redesign | Homepage redesign for Conference Planning Resources, a Naperville meeting and hotel procurement firm. [Before / after](https://github.com/ineshpul/cpr-naperville-redesign). |
-| [**FinDi**](https://www.linkedin.com/company/findimoney) | Product Intern | Building out full stack web application allowing users to manage personal finances while being held accountable by their support system. Implemented system to track changes in subscription prices, and allow users to be notified regarding spending variances. |
+| --- | --- | --- |
+| [Leap](https://taketheleap.app) | Founder & PM | Daily social video app, live on the App Store. One shared challenge drops every day, and users post theirs before they can see anyone else's. B2B version, Leap for Teams, is running its first organization pilot. *(codebase private)* |
+| [KBA vs KWEB](https://github.com/ineshpul/kba-kweb-capital-efficiency) | Equity research | Holdings-level capital-efficiency valuation of KraneShares KBA and KWEB: corporates on ROIC vs WACC, financials on ROE vs cost of equity. March 2026 snapshot, refreshed 30 October 2026. KBA earns +11.2 pp over its domestic cost of capital, KWEB +0.6 pp. Memo and audited Python in the repo. |
+| [Stay Sticky](https://github.com/ineshpul/staysticky) | Personal project | Chrome extension that pins notes to any webpage while you research, synced into one searchable library. Live on the Chrome Web Store. |
+| Tokenization research | Independent research | Essay in progress: tokenized assets are becoming useful as lending collateral, and near-instant liquidation changes how much credit the same collateral can support. Includes a stylized collateral haircut model comparing liquidation windows. |
+| FinDi | Product intern (wrapping up) | Savings app that turns a financial coaching framework into self-serve software. Built the system that tracks subscription price changes across linked accounts and notifies users about spending variances. |
 
 ---
 

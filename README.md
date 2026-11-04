@@ -16,30 +16,27 @@ Founder of [Leap](https://taketheleap.app) · Previously product @ FinDi Ltd
 | Tokenization research | Independent research | Essay in progress: tokenized assets are becoming useful as lending collateral, and near-instant liquidation changes how much credit the same collateral can support. Includes a stylized collateral haircut model comparing liquidation windows. |
 | FinDi | Product intern (wrapping up) | Savings app that turns a financial coaching framework into self-serve software. Built the system that tracks subscription price changes across linked accounts and notifies users about spending variances. |
 
----
-
 ## Skills
 
 **Product:** Figma · PostHog · App Store Connect
 **Financial Analysis:** Excel · Power BI · FactSet
 **Technical Skills:** TypeScript · React Native (Expo) · Next.js · Python (basic) · SQL · Firebase · Supabase · AWS · Claude Code · Cursor
 
----
-
 ## Currently
 
-- 🐸 Shipping **Leap** — Scaling Leap on campus, while onboarding first B2B client 
-- 📌 Shipping **Stay Sticky** — live on the [Chrome Web Store](https://chromewebstore.google.com/detail/stay-sticky/ehdlfiabnogcehjaglfkkiilhgfpiagi), with the companion library at [staysticky-web.vercel.app](https://staysticky-web.vercel.app)
-- 📱 Owning product scope at **FinDi**
-- 🎓 **Indiana University Kelley** — Finance + Math
-- 📊 **[KBA vs KWEB](https://github.com/ineshpul/kba-kweb-capital-efficiency)** — capital-efficiency valuation of China A-shares versus China internet
+- 🐸 Shipping **Leap**: scaling on campus, first B2B pilot live with Mu Beta Lambda
+- 📊 Writing the **tokenization piece**: collateral haircuts and what tokenized assets do to lending
+- 📌 **Stay Sticky**: live on the Chrome Web Store
+- 📱 Wrapping up a final project at **FinDi**
+- 🎓 **Indiana University Kelley**: Finance + Math & Chinese
 
 ---
 
 ## Let's connect
 
-- LinkedIn → [ineshpulugurtha](https://www.linkedin.com/in/ineshpulugurtha/)
-- Email → pulugurtha.inesh@gmail.com
+- LinkedIn → [ineshpulugurtha](https://www.linkedin.com/in/ineshpulugurtha)
+- Portfolio → [ineshportfolio.vercel.app](https://ineshportfolio.vercel.app/)
+- Email → inpulu@iu.edu · pulugurtha.inesh@gmail.com
 
 ---
 

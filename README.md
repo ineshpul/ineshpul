@@ -1,22 +1,8 @@
-<!-- Profile README for https://github.com/ineshpul -->
-<!-- Deploy with: scripts/github-profile/Apply-GitHubProfile.ps1 -->
-
-<div align="center">
-
-### Hi, I'm Inesh Pulugurtha
+# Hi, I'm Inesh Pulugurtha
 
 **Finance | Math & Chinese @ Kelley**
 
-Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ FinDi Ltd
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ineshpulugurtha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ineshpulugurtha/)
-[![App Store](https://img.shields.io/badge/Leap-iOS%20App-0A0A0A?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/leap-one-day-one-leap/id6764062329)
-[![Website](https://img.shields.io/badge/Leap-taketheleap.app-2d6a2d?style=flat-square)](https://taketheleap.app)
-[![Chrome Web Store](https://img.shields.io/badge/Stay%20Sticky-Chrome%20Web%20Store-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/stay-sticky/ehdlfiabnogcehjaglfkkiilhgfpiagi)
-
-**Open for freelance** — website builds for local businesses. Email [pulugurtha.inesh@gmail.com](mailto:pulugurtha.inesh@gmail.com)
-
-</div>
+Founder of [Leap](https://taketheleap.app) · Previously product @ FinDi Ltd
 
 ---
 
@@ -57,8 +43,4 @@ Founder of [**Leap**](https://taketheleap.app) · Product Development Intern @ F
 
 ---
 
-<div align="center">
-
-<sub>Building products people actually want to open every day.</sub>
-
-</div>
+Building products people actually want to open every day.

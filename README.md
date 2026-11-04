@@ -18,11 +18,11 @@ Founder of [Leap](https://taketheleap.app) · Previously product @ FinDi Ltd
 
 ---
 
-## PM toolkit
+## Skills
 
-`User research` · `PRD / scope` · `Figma / UX flows` · `Roadmapping` · `A/B & metrics` · `Prompt design` · `Trust & safety` · `Go-to-market` · `Cross-functional delivery`
-
-**Also:** Equity valuation · ROIC / WACC · React Native · Next.js · Firebase · SQL / analytics · Full-stack prototyping
+**Product:** Figma · PostHog · App Store Connect
+**Financial Analysis:** Excel · Power BI · FactSet
+**Technical Skills:** TypeScript · React Native (Expo) · Next.js · Python (basic) · SQL · Firebase · Supabase · AWS · Claude Code · Cursor
 
 ---
 

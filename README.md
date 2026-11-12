@@ -24,7 +24,7 @@ Founder of [Leap](https://taketheleap.app) · Previously product @ FinDi Ltd
 
 ## Currently
 
-- 🐸 Shipping **Leap**: scaling on campus, first B2B pilot live with Mu Beta Lambda
+- 🐸 Shipping **Leap**: scaling on campus, first B2B pilot live.
 - 📊 Writing the **tokenization piece**: collateral haircuts and what tokenized assets do to lending
 - 📌 **Stay Sticky**: live on the Chrome Web Store
 - 📱 Wrapping up a final project at **FinDi**
